@@ -19,9 +19,9 @@ The dashboard provides insights into the sales performance of a fictional compan
 - ├── sales-dashboard.pbix # Main Power BI file
 - ├── README.md # Project description
 - ├── images/ # Dashboard screenshots
--  ├── dashboard-screen.png
+- | ├── dashboard-screen.png
 - ├── data/ # Sample data files
--  └── sales-fact-table.xlsx
+- | └── sales-fact-table.xlsx
 
 ## 🛠️ Tools & Technologies
 
