@@ -38,5 +38,5 @@ The dashboard provides insights into the sales performance of a fictional compan
 ## 📬 Contact
 
 Lucimar Sasso Vieira  
-[LinkedIn](https://www.linkedin.com/in/lucimar-sasso-vieira)  
-[Email](mailto:contato@lucimarsassovieira.com.br)
+https://www.linkedin.com/in/lucimar-sasso-vieira
+mailto:contato@lucimarsassovieira.com.br
